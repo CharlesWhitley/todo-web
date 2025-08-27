@@ -54,5 +54,4 @@ npm start
 - `NEXT_PUBLIC_API_URL` – the base URL of your API (e.g., `http://localhost:4000`)
 
 ## Notes / Troubleshooting
-- If the app can’t load tasks, verify the API is running and `NEXT_PUBLIC_API_URL` is correct.
-- Assets (like the logo) live in `/public` and are referenced by path (e.g., `/Logo.png`).
+- If the app can’t load tasks, make sure API is running and `NEXT_PUBLIC_API_URL` is correct.
